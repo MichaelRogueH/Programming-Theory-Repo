@@ -429,6 +429,7 @@ MonoBehaviour:
   movementSpeed: 3
   jumpForce: 300
   timeBeforeNextJump: 1.2
+  myName: Hasso
 --- !u!1 &1451966804129338
 GameObject:
   m_ObjectHideFlags: 0
