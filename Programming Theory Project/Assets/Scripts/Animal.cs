@@ -19,6 +19,7 @@ public class Animal : MonoBehaviour
 
     protected virtual void Update()
     {
+        //ABSTRTACTION
         ControllPlayer();
     }
 
